@@ -1,0 +1,16 @@
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\bin\Debug\net5.0\ExerciseInMethods.exe
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\bin\Debug\net5.0\ExerciseInMethods.deps.json
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\bin\Debug\net5.0\ExerciseInMethods.runtimeconfig.json
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\bin\Debug\net5.0\ExerciseInMethods.runtimeconfig.dev.json
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\bin\Debug\net5.0\ExerciseInMethods.dll
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\bin\Debug\net5.0\ExerciseInMethods.pdb
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.csproj.AssemblyReference.cache
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.AssemblyInfoInputs.cache
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.AssemblyInfo.cs
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.csproj.CoreCompileInputs.cache
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.dll
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\refint\ExerciseInMethods.dll
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.pdb
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ExerciseInMethods.genruntimeconfig.cache
+C:\Users\Chris\repos\vsPrograms\ExerciseInMethods\ExerciseInMethods\obj\Debug\net5.0\ref\ExerciseInMethods.dll
